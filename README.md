@@ -1,1 +1,6 @@
 # basic
+class
+{
+}
+
+
